@@ -1,0 +1,10 @@
+
+.presentacion .img{
+    width: 100%;
+}
+
+.presentacion .img img{
+    width: 100%;
+    vertical-align: top;
+    justify-content: center;
+}
